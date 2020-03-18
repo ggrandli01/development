@@ -1,0 +1,7 @@
+name,position,location,manager,fill,stroke,width,height
+Woodie Perkins,VP of IT,Pasadena,,#dae8fc,#6c8ebf,100,75
+Kara Ott,Director of IT Systems Integration,Davenport,Woodie Perkins,#dae8fc,#6c8ebf,100,75
+Micah Clark,IT Infrastructure Analyst,Davenport,Woodie Perkins,#dae8fc,#6c8ebf,100,75
+Alex Bishop,IT Helpdesk Tech,Davenport,Woodie Perkins,#dae8fc,#6c8ebf,100,75
+Jim Usrey,IT Analyst,Pasadena,Woodie Perkins,#dae8fc,#6c8ebf,100,75
+Mario Castillo,IT Business Analyst,Pasadena,Woodie Perkins,#dae8fc,#6c8ebf,100,75
